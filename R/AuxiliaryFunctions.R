@@ -1,3 +1,10 @@
+hello=function(){
+  print("kristen")
+}
+
+
+
+
 #' Fastq Process Function
 #'
 #' This function extracts CellTags from the raw fastq sequencing file, provides counts of each CellTag and sorts them in desending order.
